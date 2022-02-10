@@ -1,0 +1,16 @@
+13; 12; 34; 23;
+75; 65; 21; 36;
+53; 82; 32; 96;
+
+
+
+
+leggere gli argomenti node.app.js ./ex1.csv ./result.json
+
+
+leggere i file                   
+
+parsare la stringa letta dal file       parseCsvToArray
+
+
+scrivere il nuovo file 
